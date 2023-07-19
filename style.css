@@ -76,7 +76,7 @@ body {
 }
 
 .card__body {
-    padding: 23px;
+    padding: 23px 0px;
     border-bottom: 1px solid var(--var-line-color-very-dark-blue);
     margin-bottom: 15px;
 }
