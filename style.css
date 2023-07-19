@@ -1,0 +1,27 @@
+/* 
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); } */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Outfit', sans-serif;
+    font-size: 18px;
+}
+
+:root {
+    --var-bg-main-color-very-dark--blue: hsl(217, 54%, 11%);
+    --var-bg-card-color-very-dark-blue: hsl(216, 50%, 16%);
+    --var-line-color-very-dark-blue: hsl(215, 32%, 27%);
+    --var-color-white: hsl(0, 0%, 100%);
+    --var-color-soft-blue: hsl(215, 51%, 70%);
+    --var-color-cyan: hsl(178, 100%, 50%);
+    
+}
+
+
+
